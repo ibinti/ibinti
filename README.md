@@ -2,7 +2,7 @@
 - 👀 interested in datascience and machine learning
 - 🌱 currently learning tensorflow
 - 💞️ looking to collaborate on data science project
-- 📫 how to reach me: me@ibinti.com
+- 📫 how to reach me: ibi@ibinti.com
 
 <!---
 ibinti/ibinti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
