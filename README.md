@@ -1,6 +1,5 @@
 - 👋 hi, this is @ibinti
 - 👀 interested in datascience and machine learning
-- 🌱 currently learning tensorflow
 - 💞️ looking to collaborate on data science project
 
 <!---
