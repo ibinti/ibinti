@@ -1,5 +1,5 @@
 - 👋 hi, this is @ibinti
-- 👀 interested in datascience and machine learning
+- 👀 interested in data science and machine learning
 - 💞️ looking to collaborate on data science project
 
 <!---
