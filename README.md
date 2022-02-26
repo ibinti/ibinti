@@ -1,6 +1,5 @@
-- 👋 hi, this is @ibinti
+- 👋 hi, this is ibi the fairest
 - 👀 interested in data science and machine learning
-- 💞️ looking to collaborate on data science project
 
 <!---
 ibinti/ibinti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
